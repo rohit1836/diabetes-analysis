@@ -47,18 +47,5 @@ Key features:
 High Precision and Recall in detecting diabetic cases.
 ROC-AUC Score indicating excellent model discrimination ability.
 
-Confusion Matrix:
-[[1812   10]
- [  52 2126]]
-Classification Report:
-              precision    recall  f1-score   support
 
-           0       0.97      0.99      0.98      1822
-           1       1.00      0.98      0.99      2178
-
-    accuracy                           0.98      4000
-   macro avg       0.98      0.99      0.98      4000
-weighted avg       0.98      0.98      0.98      4000
-
-ROC AUC Score: 0.9993
 
