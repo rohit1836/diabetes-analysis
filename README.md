@@ -1,4 +1,4 @@
-# diabetes-analysis
+# Diabetes Prediction using Random Forest
 
 Diabetes Prediction using Random Forest
 📄 Project Overview
